@@ -17,6 +17,18 @@ Integrating SQL Server for data storage.
 
 Testing and documenting APIs using Swagger.
 
+## Features
+**Add Product:** Users can add new products to the system.
+
+**Get Products with Pagination:** The application provides a paginated list of products, enabling easy navigation.
+
+**Delete Product:** Unwanted products can be deleted from the system.
+
+**Edit Product:** Existing products can be edited and updated.
+
+**API Documentation:** Swagger is integrated into the project for API testing and documentation.
+
+
 ## Disclaimer
 **Important:** This project is not intended for production use. It is solely created for educational purposes to enhance knowledge and skills in web development.
 
